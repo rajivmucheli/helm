@@ -1,4 +1,4 @@
-.py
+*.py
 .DS_Store
 .coverage/
 .vimrc
